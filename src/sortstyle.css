@@ -1,0 +1,49 @@
+.mySlides {
+	display: none;
+}
+
+body {
+	background-color: white;
+	font-family: Verdana, sans-serif;
+}
+
+.head {
+	margin-top: 20px;
+	margin-right: 20vw;
+	margin-left: 20vw;
+	text-align: center;
+	font-size: 30px;
+	background-color: green;
+	color: lightgoldenrodyellow;
+	border-radius: 19px;
+	font-weight: bolder;
+}
+
+.data-container {
+	width: 600px;
+	height: 384px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.btn1 {
+	padding: 12px;
+	font-weight: bolder;
+	background-color: green;
+	border-radius: 10px;
+	color: lightgoldenrodyellow;
+	font-size: 16px;
+	border: lightgoldenrodyellow;
+	margin-left: 37vw;
+	margin-top: 4vw;
+	margin-right: 1vw;
+}
+.btn2 {
+	padding: 12px;
+	font-weight: bolder;
+	background-color: green;
+	border-radius: 10px;
+	color: lightgoldenrodyellow;
+	font-size: 16px;
+	border: lightgoldenrodyellow;
+}
